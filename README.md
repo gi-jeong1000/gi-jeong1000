@@ -1,5 +1,5 @@
 
-<div><img src="https://capsule-render.vercel.app/api?type=waving&color=0:ccce99,100:7B6FFF&height=200&section=header&text=gi-jeong1000&fontSize=90" /></div>
+<div><img src="https://capsule-render.vercel.app/api?type=Venom&color=0:ccce99,100:7B6FFF&height=200&section=header&text=gi-jeong1000&fontSize=90" /></div>
 
 <div align="center">
 <h1 style="text-align:center"> Hi I'm gi-jeong1000 🙋‍♂️</h1>Major in Develop, Optimization, Scheduling, and AI.  
