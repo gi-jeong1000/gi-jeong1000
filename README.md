@@ -31,9 +31,9 @@
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?&style=flat-square&logo=PyCharm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?&style=flat-square&logo=Google%20Colab&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm.svg?&style=flat-square&logo=PyCharm&logoColor=white)
 
 ### DevOps
   
