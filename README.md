@@ -45,9 +45,9 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white)
 
 ## 🏆Award
-- 2023년 2학기 산업시스템공학과 학술대회 우수상
-- 동국톤 최우수상
-- FarmSystem 최우수상
+ 2023년 2학기 산업시스템공학과 학술대회 우수상
+ 동국톤 최우수상
+ FarmSystem 최우수상
 </div>
 
 </div>
