@@ -49,6 +49,11 @@
  동국톤 최우수상<br>
  FarmSystem 최우수상<br>
  빅데이터 미래 사회 문제 해결 해커톤 우수상
+
+ ## 💻Project
+ 2023.05 ~ 2023.12 Farm System 2th 수료  <br>
+ 2023.08 ~ 강화학습을 활용한 크루 페어링 문제 해결 연구  <br>
+ 2023.12 ~ 동국대학교 Machine-learning-based Automated Production Systems (MAPS) 학부 연구생 <br>
 </div>
 
 </div>
