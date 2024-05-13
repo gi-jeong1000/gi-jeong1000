@@ -45,7 +45,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white)
 
 ## 🏆Award
- 2023년 2학기 산업시스템공학과 학술대회 우수상 <br>
+ 2024년 산업경영시스템학회 춘계 대학생 프로젝트 경진대회 우수상 <br>
  동국톤 최우수상<br>
  FarmSystem 최우수상<br>
  빅데이터 미래 사회 문제 해결 해커톤 우수상
