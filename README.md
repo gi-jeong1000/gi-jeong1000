@@ -2,7 +2,7 @@
 <div><img src="https://capsule-render.vercel.app/api?type=Venom&color=0:ccce99,100:7B6FFF&height=200&section=header&text=gi-jeong1000&fontSize=90" /></div>
 
 <div align="center">
-<h1 style="text-align:center"> Hi I'm gi-jeong1000 🙋‍♂️</h1>Majoring in Develop, Optimization, Scheduling, and AI.  
+<h1 style="text-align:center"> Hi I'm gi-jeong1000 🙋‍♂️</h1 Software Engineer in LG CNS  
 
 <div align="right">
   
@@ -44,16 +44,5 @@
 ### Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white)
 
-## 🏆Award
- 2024년 산업경영시스템학회 춘계 대학생 프로젝트 경진대회 우수상 <br>
- 동국톤 최우수상<br>
- FarmSystem 최우수상<br>
- 빅데이터 미래 사회 문제 해결 해커톤 우수상
-
- ## 💻Project
- 2023.05 ~ 2023.12 Farm System 2th 수료  <br>
- 2023.08 ~ 강화학습을 활용한 크루 페어링 문제 해결 연구  <br>
- 2023.12 ~ 동국대학교 Machine-learning-based Automated Production Systems (MAPS) 학부 연구생 <br>
-</div>
 
 </div>
